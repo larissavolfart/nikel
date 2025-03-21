@@ -16,6 +16,8 @@ Este é um projeto desenvolvido como parte do curso Codaí 2.0 da [Growdev](http
 - Gerenciamento de Transações;
 - Responsividade.
 
+#### Demonstração
+Acesse a aplicação em funcionamento: [Nikel - Controle Financeiro](https://larissavolfart-nikel.vercel.app)
 
 EN:
 ### Nikel - Financial Control
@@ -34,3 +36,6 @@ This is a project developed as part of the Codaí 2.0 course by [Growdev](https:
 - Financial Dashboard;
 - Transaction Management;
 - Responsiveness.
+
+#### Demonstration
+Access the working application: [Nikel - Financial Control](https://larissavolfart-nikel.vercel.app)
